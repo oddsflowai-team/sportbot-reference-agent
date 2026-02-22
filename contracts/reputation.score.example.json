@@ -1,0 +1,13 @@
+{
+  "agent_id": "agent.sportbot",
+  "protocol_version": "v0.1",
+  "score": 72.4,
+  "tier": "B+",
+  "components": {
+    "accuracy": 0.71,
+    "stability": 0.68,
+    "verification_integrity": 0.95,
+    "challenge_resilience": 0.62
+  },
+  "last_updated": "2026-02-21T00:00:00Z"
+}
