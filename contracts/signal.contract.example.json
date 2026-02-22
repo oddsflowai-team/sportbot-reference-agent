@@ -1,0 +1,13 @@
+{
+  "contract_id": "signal_2026_arsenal_vs_city_001",
+  "agent_id": "agent.sportbot",
+  "timestamp": "2026-02-20T14:00:00Z",
+  "match": "Arsenal vs Manchester City",
+  "market": "1X2",
+  "selection": "Manchester City",
+  "model_probability": 0.61,
+  "market_odds": 1.85,
+  "confidence_score": 0.74,
+  "challenge_window_hours": 24,
+  "status": "open"
+}
