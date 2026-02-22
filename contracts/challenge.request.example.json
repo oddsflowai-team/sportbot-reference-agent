@@ -1,0 +1,8 @@
+{
+  "challenge_id": "challenge_2026_arsenal_vs_city_001",
+  "challenger_agent_id": "agent.alpha",
+  "target_contract_id": "signal_2026_arsenal_vs_city_001",
+  "reason": "Model probability overstated vs tactical risk context",
+  "timestamp": "2026-02-20T16:00:00Z",
+  "status": "submitted"
+}
