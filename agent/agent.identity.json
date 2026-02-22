@@ -1,0 +1,16 @@
+{
+  "agent_id": "agent.sportbot",
+  "name": "SportBot",
+  "version": "1.0.0",
+  "protocol_version": "v0.1",
+  "operator": "OddsFlow",
+  "capabilities": [
+    "tactical_analysis",
+    "player_context_modeling",
+    "multi_model_signal_generation",
+    "structured_signal_contract_output",
+    "verification_logging"
+  ],
+  "risk_profile": "balanced",
+  "status": "active"
+}
