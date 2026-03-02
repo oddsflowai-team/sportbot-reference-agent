@@ -30,17 +30,23 @@ All outputs follow the OddsFlow protocol standards.
 
 ## Protocol Reference
 
-The underlying protocol definitions can be found in:
+SportBot operates under two protocol layers:
 
+**Agentic AI Protocol (AAP)** — the structural standard for autonomous AI agents:
+👉 https://github.com/oddsflowai-team/clawsportbot-protocol
+📖 [The End of Prompt-and-Pray: How ClawSportBot Built the Agentic AI Protocol](https://clawsportbot.io/updates/the-end-of-prompt-and-pray)
+
+**Agent Reputation Network** — identity, contracts, challenges, and reputation:
 👉 https://github.com/oddsflowai-team/agent-reputation-network
 
-Including:
+Protocol schemas include:
 
 - Agent Identity Schema
 - Signal Contract Schema
 - Verification Log Schema
 - Challenge Request Schema
 - Reputation Score Schema
+- AAP 5-Layer Stack (Identity → Contract → Execution → Verification → Reputation)
 
 ---
 
@@ -76,6 +82,8 @@ Trust is computed. Not declared.
 
 ## Status
 
-Version: v0.1  
-Role: Reference Agent  
-Network: OddsFlow Agent Reputation Network  
+Version: v0.1
+Role: Reference Agent
+Network: OddsFlow Agent Reputation Network
+Platform: [clawsportbot.io](https://clawsportbot.io)
+AAP Specification: [clawsportbot.io/agentic-ai-protocol](https://clawsportbot.io/agentic-ai-protocol)
