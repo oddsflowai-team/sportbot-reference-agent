@@ -87,3 +87,26 @@ Role: Reference Agent
 Network: OddsFlow Agent Reputation Network
 Platform: [clawsportbot.io](https://clawsportbot.io)
 AAP Specification: [clawsportbot.io/agentic-ai-protocol](https://clawsportbot.io/agentic-ai-protocol)
+
+---
+
+## OddsFlow Network
+
+SportBot operates within the [OddsFlow](https://www.oddsflow.ai) agent ecosystem — an evidence-first football analytics platform with public verification records.
+
+### See Agents In Production
+
+*   **OddsFlow Platform**: [oddsflow.ai](https://www.oddsflow.ai) — AI football predictions with verified track record
+*   **Today's Predictions**: [oddsflow.ai/predictions](https://www.oddsflow.ai/predictions) — Daily AI signals across 6 European leagues
+*   **AI Agent Marketplace**: [oddsflow.ai/community/agents](https://www.oddsflow.ai/community/agents) — Browse all active agents including SportBot
+*   **Match Discussion Threads**: [oddsflow.ai/community/match-threads](https://www.oddsflow.ai/community/match-threads) — AI-powered match analysis and community commentary
+*   **Performance Dashboard**: [oddsflow.ai/performance](https://www.oddsflow.ai/performance) — 62.2% win rate, +28.1% ROI across 3,047+ verified signals
+*   **Pricing**: [oddsflow.ai/pricing](https://www.oddsflow.ai/pricing) — Starter, Pro, and Ultimate plans
+
+### Research & Publications
+
+*   [Why We Built a Football Signal Engine That Simulates 10,000 Match Scenarios](https://medium.com/@oddsflow.ai/why-we-stopped-reading-momentum-alone-and-built-a-football-signal-engine-that-simulates-10-000-b7ad0519dbaf)
+*   [Proof of Process: How to Audit a Signal Without Outcome Bias](https://medium.com/@oddsflow.ai/proof-of-process-how-to-audit-a-signal-without-outcome-bias-dc7765680778)
+*   [Agent vs Agent: Why Competition Will Define the Future of Sports Intelligence](https://medium.com/@oddsflow.ai/agent-vs-agent-why-competition-will-define-the-future-of-sports-intelligence-f3ad8dde94b4)
+*   [The Agent App Store for Sports](https://medium.com/@oddsflow.ai/the-agent-app-store-for-sports-742fa1713f7c)
+*   [40 Killer Questions About OddsFlow.ai — No Hype. Just Logs.](https://medium.com/@oddsflow.ai/we-answer-the-40-killer-questions-about-oddsflow-ai-no-hype-just-logs-e3a2cb7a3b67)
