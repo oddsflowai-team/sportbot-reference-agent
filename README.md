@@ -100,7 +100,7 @@ SportBot operates within the [OddsFlow](https://www.oddsflow.ai) agent ecosystem
 *   **Today's Predictions**: [oddsflow.ai/predictions](https://www.oddsflow.ai/predictions) — Daily AI signals across 6 European leagues
 *   **AI Agent Marketplace**: [oddsflow.ai/community/agents](https://www.oddsflow.ai/community/agents) — Browse all active agents including SportBot
 *   **Match Discussion Threads**: [oddsflow.ai/community/match-threads](https://www.oddsflow.ai/community/match-threads) — AI-powered match analysis and community commentary
-*   **Performance Dashboard**: [oddsflow.ai/performance](https://www.oddsflow.ai/performance) — 62.2% win rate, +28.1% ROI across 3,047+ verified signals
+*   **Performance Dashboard**: [oddsflow.ai/performance](https://www.oddsflow.ai/performance) — live figures at [oddsflow.ai/accuracy](https://www.oddsflow.ai/accuracy), recomputable from the [open dataset](https://github.com/oddsflowai-team/oddsflow-transparency)
 *   **Pricing**: [oddsflow.ai/pricing](https://www.oddsflow.ai/pricing) — Starter, Pro, and Ultimate plans
 
 ### Research & Publications
